@@ -24,7 +24,7 @@ public class HameedHilal extends Developer {
     private final String location   = "Chennai, Tamil Nadu, India";
     private final String degree     = "B.E. Computer Science & Engineering";
     private final String college    = "Mohamed Sathak Engineering College";
-    private final double cgpa       = 8.92;
+    private final double cgpa       = 8.98;
 
     private final String[] stack    = {
         "Java", "Spring Boot", "React.js",
@@ -179,7 +179,7 @@ public class HameedHilal extends Developer {
 | 🎖️ | Achievement | Details |
 |:----|:-----------|:--------|
 | 🏆 | **Inter-College Hackathon Winner** | Won **2** Inter-College Hackathons |
-| 🎓 | **Academic Excellence** | CGPA **8.92 / 10** in B.E. Computer Science & Engineering |
+| 🎓 | **Academic Excellence** | CGPA **8.98 / 10** in B.E. Computer Science & Engineering |
 | 📜 | **Java Full Stack Certification** | Certified by **Besant Technologies** |
 | 📜 | **Core Java Certification** | Certified by **Internshala Trainings** |
 | 🎤 | **Technical Leadership** | Student Coordinator for **Technical Workshops & Coding Events** |
@@ -194,7 +194,7 @@ public class HameedHilal extends Developer {
 
 | 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Score |
 |:----------|:--------------|:--------|:---------|
-| B.E. – Computer Science & Engineering | Mohamed Sathak Engineering College | Aug 2022 – May 2026 | 8.92 / 10 |
+| B.E. – Computer Science & Engineering | Mohamed Sathak Engineering College | Aug 2022 – May 2026 | 8.98 / 10 |
 
 </div>
 
